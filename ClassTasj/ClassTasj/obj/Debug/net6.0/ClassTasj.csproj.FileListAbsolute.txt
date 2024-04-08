@@ -1,0 +1,14 @@
+C:\Users\ca.r214.09\Desktop\Rauf\ClassTasj\ClassTasj\bin\Debug\net6.0\ClassTasj.exe
+C:\Users\ca.r214.09\Desktop\Rauf\ClassTasj\ClassTasj\bin\Debug\net6.0\ClassTasj.deps.json
+C:\Users\ca.r214.09\Desktop\Rauf\ClassTasj\ClassTasj\bin\Debug\net6.0\ClassTasj.runtimeconfig.json
+C:\Users\ca.r214.09\Desktop\Rauf\ClassTasj\ClassTasj\bin\Debug\net6.0\ClassTasj.dll
+C:\Users\ca.r214.09\Desktop\Rauf\ClassTasj\ClassTasj\bin\Debug\net6.0\ClassTasj.pdb
+C:\Users\ca.r214.09\Desktop\Rauf\ClassTasj\ClassTasj\obj\Debug\net6.0\ClassTasj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.09\Desktop\Rauf\ClassTasj\ClassTasj\obj\Debug\net6.0\ClassTasj.AssemblyInfoInputs.cache
+C:\Users\ca.r214.09\Desktop\Rauf\ClassTasj\ClassTasj\obj\Debug\net6.0\ClassTasj.AssemblyInfo.cs
+C:\Users\ca.r214.09\Desktop\Rauf\ClassTasj\ClassTasj\obj\Debug\net6.0\ClassTasj.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.09\Desktop\Rauf\ClassTasj\ClassTasj\obj\Debug\net6.0\ClassTasj.dll
+C:\Users\ca.r214.09\Desktop\Rauf\ClassTasj\ClassTasj\obj\Debug\net6.0\refint\ClassTasj.dll
+C:\Users\ca.r214.09\Desktop\Rauf\ClassTasj\ClassTasj\obj\Debug\net6.0\ClassTasj.pdb
+C:\Users\ca.r214.09\Desktop\Rauf\ClassTasj\ClassTasj\obj\Debug\net6.0\ClassTasj.genruntimeconfig.cache
+C:\Users\ca.r214.09\Desktop\Rauf\ClassTasj\ClassTasj\obj\Debug\net6.0\ref\ClassTasj.dll
